@@ -435,12 +435,12 @@ a{
 }
 
 #project1{
-    background-image: url(Project1.png);
+    background-image: url(images/Project1.png);
 }
 
 #project2{
     margin-left: 120px;
-    background-image: url(Project2.png);
+    background-image: url(images/Project2.png);
 }
 
 @media (max-width:1300px){
